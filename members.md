@@ -4,3 +4,4 @@
 - masaki
 - kobya4
 - muramoto
+- shizuma
